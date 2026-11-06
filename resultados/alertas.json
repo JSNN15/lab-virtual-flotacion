@@ -1,0 +1,156 @@
+{
+ "resumen": {
+  "alertas": 21,
+  "dias": 25.0,
+  "confirmadas_por_laboratorio": 11
+ },
+ "alertas": [
+  {
+   "hora": "2017-08-18 17:00:00",
+   "estimado": 3.58,
+   "lab_conocido": 5.17,
+   "real_confirmado_despues": 4.75,
+   "texto": "⚠️ Sílice estimada sobre especificación — 18-08 17:00\nEstimación ahora: 3.58% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 5.17%\nLo que más se movió esta hora:\n• Nivel columna 03: ↓ 1.6 desv. vs últimas 24 h\n• Nivel columna 05: ↓ 1.1 desv. vs últimas 24 h\n• Nivel columna 01: ↓ 0.9 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-08-19 05:00:00",
+   "estimado": 3.01,
+   "lab_conocido": 3.58,
+   "real_confirmado_despues": 2.25,
+   "texto": "⚠️ Sílice estimada sobre especificación — 19-08 05:00\nEstimación ahora: 3.01% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 3.58%\nLo que más se movió esta hora:\n• Nivel columna 06: ↓ 2.2 desv. vs últimas 24 h\n• Flujo de pulpa: ↑ 2.0 desv. vs últimas 24 h\n• Nivel columna 04: ↓ 1.9 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-08-19 16:00:00",
+   "estimado": 3.01,
+   "lab_conocido": 4.33,
+   "real_confirmado_despues": 3.49,
+   "texto": "⚠️ Sílice estimada sobre especificación — 19-08 16:00\nEstimación ahora: 3.01% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 4.33%\nLo que más se movió esta hora:\n• Flujo de almidón: ↑ 1.5 desv. vs últimas 24 h\n• Aire columna 07: ↓ 1.5 desv. vs últimas 24 h\n• Flujo de amina: ↑ 1.4 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-08-20 11:00:00",
+   "estimado": 3.12,
+   "lab_conocido": 3.66,
+   "real_confirmado_despues": 2.3,
+   "texto": "⚠️ Sílice estimada sobre especificación — 20-08 11:00\nEstimación ahora: 3.12% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 3.66%\nLo que más se movió esta hora:\n• Nivel columna 03: ↓ 1.9 desv. vs últimas 24 h\n• Aire columna 01: ↑ 1.6 desv. vs últimas 24 h\n• Aire columna 02: ↓ 1.4 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-08-21 13:00:00",
+   "estimado": 3.41,
+   "lab_conocido": 4.25,
+   "real_confirmado_despues": 4.57,
+   "texto": "⚠️ Sílice estimada sobre especificación — 21-08 13:00\nEstimación ahora: 3.41% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 4.25%\nLo que más se movió esta hora:\n• Flujo de almidón: ↓ 2.4 desv. vs últimas 24 h\n• Densidad de pulpa: ↓ 2.3 desv. vs últimas 24 h\n• Aire columna 01: ↓ 2.0 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-08-23 03:00:00",
+   "estimado": 3.18,
+   "lab_conocido": 3.61,
+   "real_confirmado_despues": 2.72,
+   "texto": "⚠️ Sílice estimada sobre especificación — 23-08 03:00\nEstimación ahora: 3.18% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 3.61%\nLo que más se movió esta hora:\n• Aire columna 06: ↑ 1.5 desv. vs últimas 24 h\n• Flujo de amina: ↑ 1.5 desv. vs últimas 24 h\n• Nivel columna 07: ↑ 1.3 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-08-25 20:00:00",
+   "estimado": 3.17,
+   "lab_conocido": 3.9,
+   "real_confirmado_despues": 2.3,
+   "texto": "⚠️ Sílice estimada sobre especificación — 25-08 20:00\nEstimación ahora: 3.17% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 3.90%\nLo que más se movió esta hora:\n• Nivel columna 02: ↓ 4.7 desv. vs últimas 24 h\n• Nivel columna 05: ↓ 3.7 desv. vs últimas 24 h\n• Nivel columna 01: ↓ 1.9 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-08-28 19:00:00",
+   "estimado": 3.19,
+   "lab_conocido": 5.53,
+   "real_confirmado_despues": 4.98,
+   "texto": "⚠️ Sílice estimada sobre especificación — 28-08 19:00\nEstimación ahora: 3.19% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 5.53%\nLo que más se movió esta hora:\n• Flujo de amina: ↑ 1.6 desv. vs últimas 24 h\n• Flujo de pulpa: ↑ 1.4 desv. vs últimas 24 h\n• Flujo de almidón: ↑ 1.3 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-08-29 13:00:00",
+   "estimado": 3.33,
+   "lab_conocido": 3.87,
+   "real_confirmado_despues": 1.63,
+   "texto": "⚠️ Sílice estimada sobre especificación — 29-08 13:00\nEstimación ahora: 3.33% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 3.87%\nLo que más se movió esta hora:\n• Nivel columna 04: ↓ 1.7 desv. vs últimas 24 h\n• Aire columna 06: ↑ 1.7 desv. vs últimas 24 h\n• Aire columna 02: ↑ 1.3 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-08-30 01:00:00",
+   "estimado": 3.53,
+   "lab_conocido": 4.68,
+   "real_confirmado_despues": 4.04,
+   "texto": "⚠️ Sílice estimada sobre especificación — 30-08 01:00\nEstimación ahora: 3.53% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 4.68%\nLo que más se movió esta hora:\n• Aire columna 03: ↓ 1.1 desv. vs últimas 24 h\n• Flujo de amina: ↓ 1.1 desv. vs últimas 24 h\n• Nivel columna 01: ↓ 1.0 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-08-30 03:00:00",
+   "estimado": 3.16,
+   "lab_conocido": 4.04,
+   "real_confirmado_despues": 5.08,
+   "texto": "⚠️ Sílice estimada sobre especificación — 30-08 03:00\nEstimación ahora: 3.16% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 4.04%\nLo que más se movió esta hora:\n• Aire columna 03: ↓ 1.7 desv. vs últimas 24 h\n• Flujo de pulpa: ↑ 1.7 desv. vs últimas 24 h\n• Aire columna 04: ↑ 1.7 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-08-31 06:00:00",
+   "estimado": 3.39,
+   "lab_conocido": 4.07,
+   "real_confirmado_despues": 1.26,
+   "texto": "⚠️ Sílice estimada sobre especificación — 31-08 06:00\nEstimación ahora: 3.39% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 4.07%\nLo que más se movió esta hora:\n• Aire columna 04: ↓ 1.7 desv. vs últimas 24 h\n• Aire columna 05: ↓ 1.2 desv. vs últimas 24 h\n• Aire columna 02: ↓ 0.8 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-09-01 00:00:00",
+   "estimado": 3.16,
+   "lab_conocido": 4.12,
+   "real_confirmado_despues": 4.96,
+   "texto": "⚠️ Sílice estimada sobre especificación — 01-09 00:00\nEstimación ahora: 3.16% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 4.12%\nLo que más se movió esta hora:\n• Aire columna 06: ↓ 1.8 desv. vs últimas 24 h\n• Aire columna 05: ↓ 1.6 desv. vs últimas 24 h\n• Aire columna 04: ↓ 1.6 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-09-01 21:00:00",
+   "estimado": 3.06,
+   "lab_conocido": 5.3,
+   "real_confirmado_despues": 1.96,
+   "texto": "⚠️ Sílice estimada sobre especificación — 01-09 21:00\nEstimación ahora: 3.06% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 5.30%\nLo que más se movió esta hora:\n• Nivel columna 05: ↑ 2.5 desv. vs últimas 24 h\n• Nivel columna 07: ↑ 2.4 desv. vs últimas 24 h\n• Nivel columna 04: ↑ 2.3 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-09-02 06:00:00",
+   "estimado": 3.9,
+   "lab_conocido": 4.54,
+   "real_confirmado_despues": 5.14,
+   "texto": "⚠️ Sílice estimada sobre especificación — 02-09 06:00\nEstimación ahora: 3.90% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 4.54%\nLo que más se movió esta hora:\n• Densidad de pulpa: ↑ 1.7 desv. vs últimas 24 h\n• Aire columna 05: ↓ 1.6 desv. vs últimas 24 h\n• Aire columna 04: ↓ 1.6 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-09-02 12:00:00",
+   "estimado": 3.53,
+   "lab_conocido": 4.44,
+   "real_confirmado_despues": 2.15,
+   "texto": "⚠️ Sílice estimada sobre especificación — 02-09 12:00\nEstimación ahora: 3.53% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 4.44%\nLo que más se movió esta hora:\n• Densidad de pulpa: ↓ 2.8 desv. vs últimas 24 h\n• Flujo de amina: ↓ 2.2 desv. vs últimas 24 h\n• Flujo de almidón: ↓ 2.1 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-09-03 06:00:00",
+   "estimado": 3.73,
+   "lab_conocido": 4.44,
+   "real_confirmado_despues": 2.01,
+   "texto": "⚠️ Sílice estimada sobre especificación — 03-09 06:00\nEstimación ahora: 3.73% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 4.44%\nLo que más se movió esta hora:\n• Nivel columna 03: ↑ 4.5 desv. vs últimas 24 h\n• Aire columna 05: ↓ 1.6 desv. vs últimas 24 h\n• Aire columna 04: ↓ 1.6 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-09-03 11:00:00",
+   "estimado": 3.35,
+   "lab_conocido": 3.71,
+   "real_confirmado_despues": 3.47,
+   "texto": "⚠️ Sílice estimada sobre especificación — 03-09 11:00\nEstimación ahora: 3.35% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 3.71%\nLo que más se movió esta hora:\n• Aire columna 06: ↓ 2.2 desv. vs últimas 24 h\n• Aire columna 05: ↓ 1.6 desv. vs últimas 24 h\n• Aire columna 04: ↓ 1.6 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-09-03 16:00:00",
+   "estimado": 3.18,
+   "lab_conocido": 3.95,
+   "real_confirmado_despues": 1.66,
+   "texto": "⚠️ Sílice estimada sobre especificación — 03-09 16:00\nEstimación ahora: 3.18% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 3.95%\nLo que más se movió esta hora:\n• Nivel columna 04: ↓ 2.0 desv. vs últimas 24 h\n• Aire columna 05: ↓ 1.6 desv. vs últimas 24 h\n• Aire columna 04: ↓ 1.6 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-09-04 00:00:00",
+   "estimado": 3.85,
+   "lab_conocido": 4.77,
+   "real_confirmado_despues": 4.87,
+   "texto": "⚠️ Sílice estimada sobre especificación — 04-09 00:00\nEstimación ahora: 3.85% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 4.77%\nLo que más se movió esta hora:\n• Nivel columna 01: ↓ 4.3 desv. vs últimas 24 h\n• Nivel columna 05: ↓ 2.8 desv. vs últimas 24 h\n• pH de pulpa: ↓ 2.2 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  },
+  {
+   "hora": "2017-09-04 22:00:00",
+   "estimado": 3.78,
+   "lab_conocido": 4.89,
+   "real_confirmado_despues": 4.89,
+   "texto": "⚠️ Sílice estimada sobre especificación — 04-09 22:00\nEstimación ahora: 3.78% SiO₂ (↑ subiendo) · límite 3.0%\nÚltimo laboratorio disponible (de hace 2 h): 4.89%\nLo que más se movió esta hora:\n• Densidad de pulpa: ↓ 1.2 desv. vs últimas 24 h\n• Aire columna 05: ↑ 1.1 desv. vs últimas 24 h\n• Aire columna 04: ↑ 0.9 desv. vs últimas 24 h\nNo es una causa confirmada: es dónde mirar primero."
+  }
+ ]
+}

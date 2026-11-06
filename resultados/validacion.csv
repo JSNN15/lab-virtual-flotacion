@@ -1,0 +1,5 @@
+orden,escenario,r2,honesto
+1,Validación aleatoria + % hierro del concentrado de la misma hora,0.773,no
+2,"Validación aleatoria, solo variables de proceso",0.335,no
+3,"Mes futuro, solo variables de proceso",-0.026,sí
+4,"Mes futuro, proceso + último laboratorio",0.493,sí
